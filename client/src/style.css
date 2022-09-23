@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.body, html {
+    background-color: #1652f0;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Lato', sans-serif;
+}
+
+.contain {
+    margin: 0 auto;
+    max-width: 500px;
+    height: 900px;
+    color: white;
+    background-color: rgb(28, 27, 27);
+    border: 1px solid white;
+    overflow: scroll;
+}
+
+.circle {
+    color: black;
+    border-radius: 50%;
+    background-color: #1652f0;
+    height: 30px;
+    width: 30px;
+}
+
+.icon {
+    height: 40px;
+    width: 40px;
+}
+
+.icon2 {
+    height: 20px;
+    width: 20px;
+}
+
+.icon3 {
+    height: 30px;
+    width: 30px;
+}
+
+.icon4 {
+    height: 15px;
+    width: 15px;
+}
+
+.blue {
+    color: #1652f0;
+}
+
+.gray {
+    color: gray;
+}
+
+.red {
+    color: red;
+}
+
+.black {
+    color: black;
+}
+
+.main {
+    font-size: 3 rem;
+}
+
+.main2 {
+    font-size: 2.5rem;
+}
+
+.continue {
+    border-radius: 30px;
+    background-color: #1652f0;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+}
+
+.new {
+    border-radius: 30px;
+    background-color: #1652f0;
+    color: black;
+    font-size: 1.2rem;
+    border: none;
+}
+
+.already {
+    border-radius: 30px;
+    background-color: #3a3a3b;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+}
+
+.logout {
+    border-radius: 30px;
+    background-color: rgb(28, 27, 27);
+    color: red;
+    font-size: 1.2rem;
+    border: none;
+}
+
+.logout:hover {
+    border-radius: 30px;
+    background-color: rgb(32, 32, 32);
+    color: red;
+    font-size: 1.2rem;
+    border: none;
+}
+
+.logout-link {
+    color: red;
+    text-decoration: none;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
+
+.link2 {
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: black;
+    text-decoration: none;
+}
+
+
+.link2:hover {
+    color: white;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: black;
+}
+
+.subtext {
+    color:#6c6c6c;
+}
+
+.numpad {
+    background-color: rgb(28, 27, 27);
+    color: white;
+    border: none;
+    font-size: 2rem;
+}
+
+.smNumpad {
+    background-color: rgb(28, 27, 27);
+    color: white;
+    border: none;
+}
+
+.copy {
+    background-color: rgb(28, 27, 27);
+    border: none;
+}
+
+.overflow {
+    overflow: auto;
+}
+
+.opacity {
+    opacity: 0.5;
+}
+
+.textshadow, .blurry-text {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(0,0,0,1);
+}
+
+.white {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.show-button {
+    background-color: transparent;
+    border: none;
+}

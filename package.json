@@ -1,0 +1,48 @@
+{
+  "name": "mern-login-reg",
+  "version": "1.0.0",
+  "description": "A first pass at a login and registration page with MERN.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Narciso Lobo",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "bcrypt": "^5.0.1",
+    "coinmarketcap-api": "^3.1.1",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.5",
+    "dotenv": "^16.0.2",
+    "ethereum-qr-code": "^0.3.0",
+    "ethers": "^5.7.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.0",
+    "mongoose-unique-validator": "^3.1.0",
+    "node-coinmarketcap-rest-api": "^0.2.0",
+    "qrcode.react": "^3.1.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dayjs": "^0.3.2",
+    "react-hider": "^1.0.3",
+    "react-simple-timestamp-to-date": "^1.0.3",
+    "timestamp-to-date": "^1.1.0",
+    "user-timezone": "^1.0.3",
+    "web3": "^1.8.0"
+  },
+  "peerDependencies": {
+    "react": "^16.x",
+    "react-dom": "^16.x",
+    "react-spring": "^8.x",
+    "styled-components": "^5.x"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "arrowParens": "avoid"
+  }
+}
