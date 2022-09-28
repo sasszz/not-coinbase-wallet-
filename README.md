@@ -2,7 +2,7 @@
 Inspired by the design of Coinbase Wallet. This self-custody allows users to send*, receive and view their cryptocurrency transaction history.
 
 ## Demo Gif
-<img src="./README-imgs/demo.gif" alt="Demo">
+<img src="./README-imgs/ncb-demo.gif" alt="Demo">
 
 ## Key Features
 - Secret Key mnemonic validator to allow users to view their wallet and sign transactions
