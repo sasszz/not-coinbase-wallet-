@@ -18,6 +18,8 @@ Inspired by the design of Coinbase Wallet. This self-custody allows users to sen
 
 ## Future Features
 - Sign and send transactions*
+- Convert to Chrome extension
+- Deploy and go live!
 
 ## Screenshots of Each Page
 
